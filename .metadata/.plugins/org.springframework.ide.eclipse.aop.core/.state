@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Microservice-Friends"/>
+<aop-project name="Eureka-Register-Server"/>
+<aop-project name="Microservice-PlanDetails"/>
+<aop-project name="Microservice-CallDetails"/>
+<aop-project name="GatewayZuul"/>
+<aop-project name="Microservice-Customer"/>
+</aop-reference-model>
